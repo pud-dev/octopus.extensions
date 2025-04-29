@@ -1,0 +1,15 @@
+analyzer:
+include: package:flutter_lints/flutter.yaml
+
+# -> Code Rules
+linter:
+  rules:
+    unnecessary_this: false
+    unintended_html_in_doc_comment: ignore
+    use_function_type_syntax_for_parameters: false
+    prefer_const_constructors_in_immutables: false
+    prefer_const_constructors: false
+    avoid_relative_lib_imports: true
+    avoid_shadowing_type_parameters: false
+    non_constant_identifier_names: false
+    annotate_overrides: false
