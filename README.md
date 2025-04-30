@@ -1,4 +1,4 @@
-![App Icon](platform.png)
+![App Icon](https://raw.githubusercontent.com/pud-dev/octopus.extensions/main/platform.png)
 
 **Boost your productivity with powerful and expressive Dart extensions.**
 
